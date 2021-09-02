@@ -2,7 +2,7 @@
 - 😍 I’m interested in image processing, web apps, internship.
 - 😜 I’m currently learning web apps, deep learning.
 - 🐱 How to reach me 
-- Supporters Slide:https://scii-my.sharepoint.com/:p:/g/personal/pc510141_cii_shizuoka_ac_jp/EQWRgv7UnXxAlgapr16VJF8ByH6d_EGUVZLJrZkJqYHsMQ?e=HdAuXC
+- Self-introduction Slide:https://scii-my.sharepoint.com/:p:/g/personal/pc510141_cii_shizuoka_ac_jp/EQWRgv7UnXxAlgapr16VJF8ByH6d_EGUVZLJrZkJqYHsMQ?e=HdAuXC
 - Qiita:https://qiita.com/muro5866
 - Twitter:https://twitter.com/pSMpRZnSdLkHCsz
 - Portfolio:https://donuthole8.github.io/portfolio/
