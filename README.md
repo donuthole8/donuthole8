@@ -1,11 +1,11 @@
-- 🍩 Hi, I’m @donuthole8, Masato Muronaga.
-- 😍 I’m interested in image processing, web apps, internship.
-- 😜 I’m currently learning web apps, deep learning.
+- 🍩 アカウント: @donuthole8
+- 😍 研究: 画像処理
+- 😜 興味: Web開発
 - 🐱 How to reach me 
-- Self-introduction Slide:https://scii-my.sharepoint.com/:p:/g/personal/pc510141_cii_shizuoka_ac_jp/EQWRgv7UnXxAlgapr16VJF8ByH6d_EGUVZLJrZkJqYHsMQ?e=HdAuXC
-- Qiita:https://qiita.com/muro5866
-- Twitter:https://twitter.com/pSMpRZnSdLkHCsz
-- Portfolio:https://donuthole8.github.io/portfolio/
+- 🏠 自己紹介スライド: https://drive.google.com/file/d/1DWfwzV3QJDdN3EYOrvnw48V8LbAQ9WbI/view?usp=sharing
+- 🐺 Qiita: https://qiita.com/muro5866
+- 🐦 Twitter: https://twitter.com/lomlom66
+- 🌄 ポートフォリオ: https://donuthole8.github.io/portfolio/
 
 <!---
 donuthole8/donuthole8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
