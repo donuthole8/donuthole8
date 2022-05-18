@@ -14,6 +14,7 @@
 - 🌄 ポートフォリオ: https://donuthole8.github.io/portfolio/
 - 🏰 その他成果物: 本リポジトリ以外ではブレインパッド様，ナビタイムジャパン様，データグリッド様（就業型），QuickWork様（就業型）等にて開発経験
 
+![](https://komarev.com/ghpvc/?username=donuthole8&color=brightgreen)
 
 
 <!---
