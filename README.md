@@ -4,6 +4,8 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donuthole8&layout=compact&theme=tokyonight)](https://github.com/donuthole8/)
 
+<!-- Githubチャート -->
+[![github-chart](https://github-chart.vercel.app/api?user=donuthole8)](https://github.com/donuthole8/github-chart)
 
 - 🍩 アカウント: @donuthole8
 - 😍 研究: 画像処理
