@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://donuthole8.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-166c9d?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://qiita.com/muro5866"><img src="https://img.shields.io/badge/Qiita-61a3ce?style=for-the-badge&logo=qiita&logoColor=white" /></a>
+  <a href="https://donuthole8.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://qiita.com/muro5866"><img src="https://img.shields.io/badge/Qiita-55c500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
   <a href="https://twitter.com/lomlom66"><img src="https://img.shields.io/badge/Twitter-61a3ce?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy45NTMgNC41N2ExMCAxMCAwIDAxLTIuODI1Ljc3NSA0Ljk1OCA0Ljk1OCAwIDAwMi4xNjMtMi43MjNjLS45NTEuNTU1LTIuMDA1Ljk1OS0zLjEyNyAxLjE4NGE0LjkyIDQuOTIgMCAwMC04LjM4NCA0LjQ4MkM3LjY5IDguMDk1IDQuMDY3IDYuMTMgMS42NCAzLjE2MmE0LjgyMiA0LjgyMiAwIDAwLS42NjYgMi40NzVjMCAxLjcxLjg3IDMuMjEzIDIuMTg4IDQuMDk2YTQuOTA0IDQuOTA0IDAgMDEtMi4yMjgtLjYxNnYuMDZhNC45MjMgNC45MjMgMCAwMDMuOTQ2IDQuODI3IDQuOTk2IDQuOTk2IDAgMDEtMi4yMTIuMDg1IDQuOTM2IDQuOTM2IDAgMDA0LjYwNCAzLjQxNyA5Ljg2NyA5Ljg2NyAwIDAxLTYuMTAyIDIuMTA1Yy0uMzkgMC0uNzc5LS4wMjMtMS4xNy0uMDY3YTEzLjk5NSAxMy45OTUgMCAwMDcuNTU3IDIuMjA5YzkuMDUzIDAgMTMuOTk4LTcuNDk2IDEzLjk5OC0xMy45ODUgMC0uMjEgMC0uNDItLjAxNS0uNjNBOS45MzUgOS45MzUgMCAwMDI0IDQuNTl6Ii8%2BPC9zdmc%2B" /></a>
 </p>
 
@@ -27,12 +27,28 @@
 
 ## Recent Projects
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| [**denki-isu**](https://github.com/donuthole8/denki-isu) | 2人で遊べるオンライン電気イスゲーム | HTML / JS |
-| [**Coffeed**](https://github.com/donuthole8/myrss) | 珈琲を飲むあいだに情報収集を済ませる RSS / Atom リーダー（[Demo](https://myrss-self.vercel.app)） | TypeScript |
-| [**teatimes**](https://github.com/donuthole8/muro-blog) | 誰でも自分の times（分報）を持てるサービス | TypeScript |
-| [**trareco**](https://github.com/donuthole8/trareco) | Vue + Firebase製Webアプリ（[Demo](https://trareco-ccb11.web.app)） | Vue |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://myrss-self.vercel.app"><img src="./assets/projects/coffeed.png" alt="Coffeed のスクリーンショット" /></a>
+      <h3><a href="https://github.com/donuthole8/myrss">Coffeed</a></h3>
+      <p>珈琲を飲むあいだに情報収集を済ませる RSS / Atom リーダー。話題の束ね、海外先行ニュース、タイトルの自動翻訳。</p>
+      <p><a href="https://myrss-self.vercel.app">Demo</a> · <code>Next.js</code> <code>TypeScript</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/donuthole8/muro-blog"><img src="./assets/projects/teatimes.png" alt="teatimes のスクリーンショット" /></a>
+      <h3><a href="https://github.com/donuthole8/muro-blog">teatimes</a></h3>
+      <p>誰でも自分の times（分報）を持てるサービス。独り言を書き、人の部屋に遊びに行ってスレッドで話す。</p>
+      <p><code>TanStack Start</code> <code>Hono</code> <code>Cloudflare D1</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://denki-isu-dusky.vercel.app"><img src="./assets/projects/denki-isu.png" alt="電気イスゲームのスクリーンショット" /></a>
+      <h3><a href="https://github.com/donuthole8/denki-isu">電気イスゲーム</a></h3>
+      <p>2人・2台で遊ぶ、12脚のイスの心理戦。部屋を作ってリンクを送るだけで対戦できる。</p>
+      <p><a href="https://denki-isu-dusky.vercel.app">Demo</a> · <code>HTML</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
