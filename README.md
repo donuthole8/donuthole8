@@ -30,19 +30,19 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://myrss-self.vercel.app"><img src="./assets/projects/coffeed.png" alt="Coffeed のスクリーンショット" /></a>
+      <a href="https://myrss-self.vercel.app"><img src="./assets/projects/coffeed.jpg" alt="Coffeed のスクリーンショット" /></a>
       <h3><a href="https://github.com/donuthole8/myrss">Coffeed</a></h3>
       <p>珈琲を飲むあいだに情報収集を済ませる RSS / Atom リーダー。話題の束ね、海外先行ニュース、タイトルの自動翻訳。</p>
       <p><a href="https://myrss-self.vercel.app">Demo</a> · <code>Next.js</code> <code>TypeScript</code></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/donuthole8/muro-blog"><img src="./assets/projects/teatimes.png" alt="teatimes のスクリーンショット" /></a>
+      <a href="https://github.com/donuthole8/muro-blog"><img src="./assets/projects/teatimes.jpg" alt="teatimes のスクリーンショット" /></a>
       <h3><a href="https://github.com/donuthole8/muro-blog">teatimes</a></h3>
       <p>誰でも自分の times（分報）を持てるサービス。独り言を書き、人の部屋に遊びに行ってスレッドで話す。</p>
       <p><code>TanStack Start</code> <code>Hono</code> <code>Cloudflare D1</code></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://denki-isu-dusky.vercel.app"><img src="./assets/projects/denki-isu.png" alt="電気イスゲームのスクリーンショット" /></a>
+      <a href="https://denki-isu-dusky.vercel.app"><img src="./assets/projects/denki-isu.jpg" alt="電気イスゲームのスクリーンショット" /></a>
       <h3><a href="https://github.com/donuthole8/denki-isu">電気イスゲーム</a></h3>
       <p>2人・2台で遊ぶ、12脚のイスの心理戦。部屋を作ってリンクを送るだけで対戦できる。</p>
       <p><a href="https://denki-isu-dusky.vercel.app">Demo</a> · <code>HTML</code> <code>JavaScript</code></p>
