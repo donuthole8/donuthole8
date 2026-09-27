@@ -19,3 +19,22 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
+          AUTO_PUSH: false
+      # default テーマを OpenWork 風の水色に塗り替える
+      - name: Build openwork theme
+        run: |
+          out=profile-summary-card-output
+          rm -rf "$out/openwork"
+          cp -r "$out/default" "$out/openwork"
+          sed -i -E \
+            -e 's/font-size: 22px; fill: #586e75/font-size: 22px; fill: #1b7fbe/g' \
+            -e 's/(fill|stroke)="#586e75"/\1="#61a3ce"/g' \
+            -e 's/#e4e2e2/#d6dfe5/g' \
+            "$out"/openwork/*.svg
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "Update profile summary cards"
+          git push
